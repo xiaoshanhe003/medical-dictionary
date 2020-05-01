@@ -49,6 +49,6 @@ The widget is built with React.js and the development language is English. The a
 
 ## Contributors
 
-- Lulu Guo (UX design & research)
+- [Lulu Guo](http://linkedin.com/in/lulu-guo-idesign) (UX design & research)
 - [Xiaoshan He](https://github.com/xiaoshanhe003) (UX design & development)
 - Carol Shannon (supervisor)
